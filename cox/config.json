@@ -1,4 +1,9 @@
 {
+  "dns": {
+    "servers":[
+       "https://beacons.adwhc.xyz/query"
+    ]
+    },
   "inbounds": [
     {
       "port": 8080,
