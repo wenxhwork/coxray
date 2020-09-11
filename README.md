@@ -14,7 +14,7 @@ english:
 
 `git clone https://github.com/wenxhwork/coxray.git`
 
-`cd coxray/coxray`
+`cd coxray/cox`
 
 `chmod +x *`
 
